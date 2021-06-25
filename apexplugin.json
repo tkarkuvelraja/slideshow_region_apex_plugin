@@ -1,7 +1,7 @@
 {
   "name" : "Slideshow",
   "version" : "1.0",
-  "description" : "A slideshow is used to cycle through elements. A plugin to display images as a responsive slideshow (Display an automatic slideshow and manual slideshow).",
+  "description" : "A slideshow is used to cycle through elements. A plugin to display images as a responsive slideshow (Display an automatic or manual slideshow).",
   "keywords" : ["Slideshow","Carousel","Region"],
   "homepage" : "https://github.com/tkarkuvelraja/slideshow_region_apex_plugin",
   "bugs" : {
