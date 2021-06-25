@@ -1,6 +1,6 @@
 # Oracle APEX Plug-In: Slideshow
 
-A slideshow is used to cycle through elements. A plugin to display images (Display an automatic slideshow and manual slideshow) as a responsive slideshow. Credits to **W3schools**.
+A slideshow is used to cycle through elements. A plugin to display images as a responsive slideshow (Display an automatic slideshow and manual slideshow). Credits to **W3schools**.
 
 Demo Application: https://apex.oracle.com/pls/apex/f?p=133110:9999::BRANCH_TO_PAGE_ACCEPT::9999:P9999_APP_PAGE_REDIRECT:6
 
