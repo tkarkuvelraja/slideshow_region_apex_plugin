@@ -2,7 +2,7 @@
   "name" : "Slideshow",
   "version" : "1.0",
   "description" : "A plugin to display images as a responsive slideshow.",
-  "keywords" : ["Slideshow","Caurosel","Region"],
+  "keywords" : ["Slideshow","Carousel","Region"],
   "homepage" : "https://github.com/tkarkuvelraja/slideshow_region_apex_plugin",
   "bugs" : {
     "url" : "https://github.com/tkarkuvelraja/slideshow_region_apex_plugin/issues",
