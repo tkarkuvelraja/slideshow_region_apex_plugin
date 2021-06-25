@@ -23,11 +23,11 @@ wwv_flow_api.import_begin (
 end;
 /
  
-prompt APPLICATION 1009 - DAMAC Leasing
+prompt APPLICATION 1009 - About Oracle APEX
 --
 -- Application Export:
 --   Application:     1009
---   Name:            DAMAC Leasing
+--   Name:            About Oracle APEX
 --   Date and Time:   19:35 Friday June 25, 2021
 --   Exported By:     KARKUVELRAJA.T
 --   Flashback:       0
