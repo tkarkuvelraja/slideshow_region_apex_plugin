@@ -73,7 +73,7 @@ Plugin will be listed under plug-ins bucket after successful installation.
  
  **1) Making Manual Slideshow:**
  
- Change the attribute **Slidshow** to **Manual**
+ Change the attribute **Slideshow** to **Manual**
  
  ![image](https://user-images.githubusercontent.com/85283603/123453105-2d12b480-d5f0-11eb-8bbf-945669d6f55c.png)
  
@@ -83,7 +83,7 @@ Plugin will be listed under plug-ins bucket after successful installation.
  
   **2) Making Automatic Slideshow:**
  
- Change the attribute **Slidshow** to **Automatic**
+ Change the attribute **Slideshow** to **Automatic**
  
  ![image](https://user-images.githubusercontent.com/85283603/123453287-66e3bb00-d5f0-11eb-9222-69621ae8e08b.png)
  
