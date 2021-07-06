@@ -90,6 +90,12 @@ Plugin will be listed under plug-ins bucket after successful installation.
  **Output:** Then you output would display like this,
  
  ![image](https://user-images.githubusercontent.com/85283603/123453488-aca08380-d5f0-11eb-8b28-32ef1e08e84f.png)
+ 
+ **Limitation:** This pulg in **will not** support for **Arabic translated** application.
+ 
+Note: I have built **bootstrap carousel extension pulgin**, which will support for all language applications. Please give a try.
+ 
+Bootrstrap Carousel Extension Plugin: https://github.com/tkarkuvelraja/bootstrap_carousel_extension_region_apex_plugin
   
 That's it.
 
